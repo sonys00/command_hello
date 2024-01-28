@@ -9,6 +9,7 @@ int main(int argc , char *argv[])
 		for (i=0; i<argc; i++)
 		{
 		printf("argument number %d is %s\n", i, argv[i]);
+		orintf("this is 1st tome \n");	
 		}	
 		return 0;
 }
